@@ -1,0 +1,5 @@
+jekyll-import/
+_posts/
+tumblr_files/
+*.json
+.env
