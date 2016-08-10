@@ -1,5 +1,7 @@
-PATH
-  remote: ./jekyll-import
+GIT
+  remote: git://github.com/klubbdinmamma/jekyll-import.git
+  revision: 5e71bfb11bd926fb74be3b3e6b235edc673f8aaa
+  branch: kdm-import
   specs:
     jekyll-import (0.11.0)
       fastercsv
